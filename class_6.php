@@ -38,3 +38,16 @@ TEXT;
 
 echo $text;
 
+
+echo '<br>';
+echo chop($name,'Jarjis');
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
